@@ -20,3 +20,19 @@ for i in range(0, 2*num, 2):
     for j in range(i, 2*num, 2):
         print(j+1, end="")
     print()
+    
+    
+    #output
+#     enter number: 5
+#     * 1
+#    ** 23
+#   *** 345
+#  **** 4567
+# ***** 56789
+# 54321 13579
+#  5432 3579
+#   543 579
+#    54 79
+#     5 9
+
+    
